@@ -2,7 +2,7 @@
 
 /**
  * main: is the entry point
- *
+ *"Programming is like building a multilingual puzzle
  * Return: is always (0) if successful
  */
 
