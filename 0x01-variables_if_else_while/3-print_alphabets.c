@@ -5,9 +5,9 @@
  * Return: (0) if successful
  */
 int main(void)
-{char alphabet = 'a';
-char ALPHABET = 'A';
-        while (alphabet <= 'z')
+{	char alphabet = 'a';
+	char ALPHABET = 'A';
+	while (alphabet <= 'z')
         {putchar (alphabet);
                 alphabet++;
         }
