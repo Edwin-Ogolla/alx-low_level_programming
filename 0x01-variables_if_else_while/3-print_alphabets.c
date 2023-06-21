@@ -6,16 +6,16 @@
  */
 int main(void)
 {char alphabet = 'a';
- char ALPHABET = 'A';
+char ALPHABET = 'A';
         while (alphabet <= 'z')
         {putchar (alphabet);
                 alphabet++;
         }
-        putchar ('\n');
-	while (ALPHABET <= 'Z')
+     	while (ALPHABET <= 'Z')
 	{putchar (ALPHABET);
 		ALPHABET++;
 	}
+	putchar ('\n');
 
         return (0);
 }
